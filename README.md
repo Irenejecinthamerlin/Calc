@@ -165,9 +165,9 @@ function calculate() {
 
 ## OUTPUT:
 
-![image](https://github.com/Irenejecinthamerlin/Calc/assets/128350225/396fb05f-e8a7-4939-8572-d75ec9f65093)
-
 ![image](https://github.com/Irenejecinthamerlin/Calc/assets/128350225/383266e3-11fc-4147-aa84-5dac7a196c14)
 
+
+![image](https://github.com/Irenejecinthamerlin/Calc/assets/128350225/396fb05f-e8a7-4939-8572-d75ec9f65093)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
